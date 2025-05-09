@@ -1,0 +1,2 @@
+Notas SOBRE GIT
+Los comandos más utiles son:
