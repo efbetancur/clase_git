@@ -2,3 +2,4 @@ Notas SOBRE GIT
 Los comandos más utiles son:
 -git init: Utilizado para crear un repositorio
 No hay conflictos hasta el momento
+simulando conflicto
